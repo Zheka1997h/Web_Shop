@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc49cee-8e5b-497a-bf0e-ca617294dea1" name="Changes" comment="Commit_HomeWork_7">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    <list default="true" id="dfc49cee-8e5b-497a-bf0e-ca617294dea1" name="Changes" comment="Commit_HomeWork_10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +23,17 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Zheka1997h"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Zheka1997h/Web_Shop.git",
@@ -58,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "Home__work__10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,7 +87,31 @@
       <option name="project" value="LOCAL" />
       <updated>1791731103985</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit_HomeWork_8">
+      <option name="closed" value="true" />
+      <created>1791731349760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791731349760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit_HomeWork_8">
+      <option name="closed" value="true" />
+      <created>1791731361978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791731361978</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit_HomeWork_10">
+      <option name="closed" value="true" />
+      <created>1791732029152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791732029152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +128,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="Home_work_10" />
                       </list>
                     </value>
                   </entry>
@@ -120,6 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit_HomeWork_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_HomeWork_7" />
+    <MESSAGE value="Commit_HomeWork_8" />
+    <MESSAGE value="Commit_HomeWork_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_HomeWork_10" />
   </component>
 </project>
