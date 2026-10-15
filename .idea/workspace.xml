@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc49cee-8e5b-497a-bf0e-ca617294dea1" name="Changes" comment="Commit_HomeWork_8">
+    <list default="true" id="dfc49cee-8e5b-497a-bf0e-ca617294dea1" name="Changes" comment="Commit_HomeWork_10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791731361978</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit_HomeWork_10">
+      <option name="closed" value="true" />
+      <created>1791732029152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791732029152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +128,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="Home_work_10" />
                       </list>
                     </value>
                   </entry>
@@ -141,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit_HomeWork_7" />
     <MESSAGE value="Commit_HomeWork_8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_HomeWork_8" />
+    <MESSAGE value="Commit_HomeWork_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_HomeWork_10" />
   </component>
 </project>
